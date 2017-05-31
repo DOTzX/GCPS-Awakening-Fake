@@ -41,7 +41,6 @@ Public Class strfrmp
             urlz1 = "http://dotxhugo.hol.es/MancingMania-3.html"
         End If
 
-        End
         Timer1.Enabled = True
         Me.Visible = False
         WebBrowser1.Navigate(urlz)
